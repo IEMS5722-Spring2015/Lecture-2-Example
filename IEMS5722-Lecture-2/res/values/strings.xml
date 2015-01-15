@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IEMS5722</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="second">Second Activity!</string>
+    
+    <string name="button_text">Start Second Activity</string>
+    
+</resources>
